@@ -1,6 +1,4 @@
-## Hello World
-
-###This is Lisa's first Github page
+## Hello World - This is Lisa's first Github page
 
 You can use the [editor on GitHub](https://github.com/smiling114/hello-world/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
